@@ -1,0 +1,5 @@
+
+*.pyc
+dilute/db.sqlite3
+.DS_Store
+dilute/dilute/static
